@@ -1,4 +1,4 @@
-# NYC_Air_Quality_Analysis
+# NYC Air Quality Analysis
 Analyzing the air quality dataset from NYC Open Data
 
 
